@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Rituraj Anand</h1>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=iriturj13&label=Profile%20views&color=0e75b6&style=flat" alt="iriturj13" /> </p>
 
 <h3 align="left">Connect with me:</h3>
